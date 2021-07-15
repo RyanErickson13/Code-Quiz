@@ -1,0 +1,2 @@
+//I am truly not understanding how to do javascript, I did some research on how to complete this and copied another persons code then
+//used there code as an example to see if I could learn from it and even that did not help me.
